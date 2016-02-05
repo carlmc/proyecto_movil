@@ -1,0 +1,197 @@
+<resources>
+    <string name="app_name">Facultades</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">Añadir</string>
+    <string name="action_favorite">Marcar Favorito</string>
+
+    <string name="title_activity_detail">DetailActivity</string>
+
+    
+    <!--ARTQUITECTURA-->
+    <string name="faua">
+        La misión de la Facultad de Arquitectura, Urbanismo y Artes (FAUA) es contribuir a la formación
+        profesional con excelencia académica, con alto nivel y calidad, cumpliendo una labor estratégica
+        en el desarrollo del país, tal es el caso de la participación en más del 90% de proyectos regionales
+        y municipales en todo el país. En los congresos estudiantiles nacionales e internaciones vienen
+        ocupando los primeros lugares en las diferentes categorías: Construcción, Urbanismo, Diseño,
+        Paisajismo y Artes.
+        La Facultad de Arquitectura, Urbanismo y artes, inicia su vida institucional bajo el nombre de
+        sección Especial de Arquitectura y Constructores, siendo creada por el Presidente Augusto B. Leguía
+        mediante Decreto Supremo el 29 de Abril de 1910; su dirección a cargo del Arq. Ricardo de Jaza Malachowski,
+        de origen polaco con estudios en la Escuela de Bellas Artes de París.
+    </string>
+
+    
+    <!--CIENCIAS-->
+    <string name="fc">
+        La Facultad de Ciencias ofrece el grado de Bachiller en Ciencias con mención en las especialidades de
+        Ingeniería Física, Física, Química, Matemática y Ciencia de la Computación, y los títulos profesionales
+        de Ingeniero Físico y Licenciado en Física, en Química, en Matemática y en Ciencia de la Computación.
+        Gran importancia tiene en la Facultad de Ciencias su Instituto de Matemática y Ciencias Afines IMCA.
+        Desde su creación es la dependencia encargada de la formación de los Maestros en Matemática
+        Aplicada, en Economía Matemática y de los Doctores en Matemática. Para ello coordina con la Sección
+        de Posgrado y con la Escuela Profesional de Matemática de esta Facultad.
+    </string>
+    <!--escuelas-->
+    <string-array name="escuelas_fc">
+        <item>INGENIERIA FISICA</item>
+        <item>QUIMICA</item>
+        <item>FISICA</item>
+        <item>MATEMATICA</item>
+        <item>CIENCIA DE LA COMPUTACION</item>
+    </string-array>
+    <string-array name="fc_contenido">
+        <item>
+            Formación integral en ciencias básicas y aplicadas,
+            lo que le permite emplear un razonamiento riguroso
+            y a la vez actuar eficientemente, tiene la Capacidad
+            de proponer, evaluar y dirigir proyectos con alto contenido
+            tecnológico, Aptitud para la investigación, que le permite
+            plantear soluciones innovadoras a problemas imprevistos,
+            Dominio de programas avanzados de computación para aplicaciones
+            en cálculo, simulación y diseño, Capacidad de integrarse a
+            equipos de trabajo multidisciplinarios aportando ideas creativas
+            y con alto sentido crítico.
+        </item>
+        <item>
+            El Licenciado en Química está capacitado para desempeñar sus labores
+            con eficiencia en los Laboratorios de Análisis Químico, Control de Calidad e
+            Investigación y Desarrollo de la Industria, cuyos procesos involucran el cambio
+            químico de la materia. Su preparación es exhaustiva en la comprensión de los fundamentos
+            y manipulación de equipos instrumentales de última generación, está entrenado en la
+            interpretación de datos experimentales y bibliográficos, de tal manera, que los
+            resultados y conclusiones de sus trabajos tengan rigor científico.
+        </item>
+        <item>
+            Realizar investigaciones sobre los aspectos físicos de los materiales tanto para
+            incrementar el conocimiento científico sobre ellos como para elaborar materiales con
+            características específicas para ciertas aplicaciones, Usar la Matemática y la
+            Computación Científica para expresar y analizar sus observaciones sobre el comportamiento
+            de los sistemas físicos y formular las conclusiones correspondientes, Diseñar y construir
+            módulos y prototipos para la enseñanza de la Física en los diferentes niveles educativos.
+        </item>
+        <item>
+            Tradicionalmente el Licenciado en Matemática está capacitado para ejercer la docencia
+            universitaria en cualquier nivel académico. Sin embargo, su sólida formación le permite
+            continuar estudios de posgrado e incursionar en la investigación en ciencias básicas.
+            En la actualidad, además del perfil anterior se está dotando al Licenciado en Matemática
+            con disciplinas que caracterizan a un matemático que puede desempeñarse en la formulación
+            y análisis de modelos económicos, industriales, sociales, planeamiento y optimización de
+            procesos industriales y de ingeniería. Por consiguiente, áreas como la simulación, la
+            optimización y el análisis numérico son inherentes a este perfil.
+        </item>
+        <item>
+            El licenciado en Ciencia de la Computación está capacitado para ser un impulsor del
+            desarrollo de nuevas técnicas computacionales útiles a nivel nacional e internacional;
+            tiene a la computación como fin y no como medio. El científico de la computación se encarga
+            de complejas labores de programación, desde el diseño hasta la implementación del software.
+            Trabaja en el desarrollo de meta sistemas Grid, los desarrollos de computación paralela,
+            robótica, visión por computadora, sistemas inteligentes, bioinformática y otras áreas.
+            Desarrollan las mejores formas posibles de almacenar información en bases de datos, enviar
+            datos a través de la red y desplegar imágenes complejas. Sus bases teóricas les permiten
+            determinar el mejor desempeño posible y su estudio de algoritmos les ayuda a desarrollar
+            nuevas aproximaciones para proveer un mejor desempeño.
+        </item>
+    </string-array>
+
+    
+    <!--AMBIENTAL-->
+    <string name="fia">
+        La Facultad de Ingeniería Ambiental de la Universidad Nacional de Ingeniería es la única facultad
+        en el Perú que se dedica a la formación de profesionales en Ingeniería Sanitaria contribuyendo
+        sustancialmente al desarrollo sostenible del país. Ofrece Maestrías en Ciencias con mención en
+        Tratamiento de Aguas y Reutilización de Desechos; Higiene Ocupacional; y Gestión Ambiental, con
+        orientación sanitaria y ambiental, así como el Programa de Actualización y Educación Continua en
+        Ciencias e Ingeniería Ambiental. La Facultad es consciente que los grandes retos nacionales y
+        mundiales permitirán que las actuales y futuras generaciones puedan satisfacer sus necesidades y
+        alcanzar un desarrollo integral y sostenido si cuidan y preservan su ambiente; y que la educación,
+        la creatividad y la innovación tecnológica son la clave para trazar una nueva estrategia para el desarrollo.
+Siendo necesario revertir la actual situación sanitaria y ambiental que impide un adecuado desarrollo, se demanda acciones
+        en el campo del saneamiento, la salud ocupacional, la productividad y la protección del medio ambiente.
+Atenta a estas demandas, la Facultad de Ingeniería Ambiental, considera importante contar con el número suficiente de profesionales que permitan
+atender las necesidades de investigación y capacitación en este campo, promoviendo procesos conducentes al desarrollo sostenible nacional y mundial.
+    </string>
+
+    
+    <!--CIVIL-->
+    <string name="fic">
+        La Facultad de Ingeniería Civil de la UNI es la Escuela de Ingenieros más antigua del Perú. Sus egresados han desarrollado ingeniería nacional e internacional, además de desempeñar importantes cargos en la administración pública y empresas privadas. Es Alma Mater de la moderna Ingeniería Civil en el Perú, cuenta con docentes calificados y estudiantes con un alto sentido de superación, además de diversos laboratorios de apoyo a la formación e investigación.
+
+La organización de nuestra facultad en áreas académicas que agrupan a profesionales de especialidades afines nos ha dado fortalezas competitivas en diversas áreas de la ingeniería civil, teniendo nuestros egresados una formación sólida en la especialidad que el país necesita para su desarrollo.
+    </string>
+
+    
+    <!--ECONOMICA-->
+    <string name="fiecs">
+        La Facultad de Ingeniería Económica, Ciencias Sociales y Estadística  (FIECS) es la única Facultad
+        en Lima Metropolitana que se dedica a la formación de profesionales en Ingeniería Económica e Ingeniería Estadística,
+        siendo una Facultad eficiente, emprendedora e innovadora, con perfil propio al servicio del desarrollo del país dedicada
+        a la formación profesional basada en una educación de excelencia.
+
+La formación académica de los Ingenieros Economistas, que se desarrolla en la Escuela Profesional de
+        Ingeniería Económica (EPIEC-FIECS) se sustenta en el conocimiento del ámbito macroeconómico,
+        microeconómico, matemático, estadístico y financiero. El Ingeniero Economista participa en la
+        programación y evaluación de proyectos nacionales, formulando y ejecutando una política económica para el desarrollo nacional, regional y sectorial. En el ámbito microeconómico, asesora y desarrolla la gestión de las empresas, respondiendo a los desafíos de la modernización.
+    </string>
+
+    
+    <!--ELECTRONICA-->
+    <string name="fiee">
+        Creada por Ley del 12 de junio de 1903, se inició la enseñanza y desarrollo de la Ingeniería Eléctrica en el Perú durante el gobierno del Presidente don José Balta. Reorganizada el 13 de enero de 1911, es posteriormente designada como la Especialidad de Mecánicos Electricistas hasta 1946 en que, mediante una ley universitaria, las especialidades de la Escuela pasan a constituirse en departamentos con un programa de estudios de seis años.
+
+Al otorgarse a la Escuela Nacional de Ingenieros la denominación de Universidad Nacional de Ingeniería mediante Ley 12379 del 19 de julio de 1955, se dio una nueva estructura orgánica a la institución; los Departamentos se convierten en Facultades y dentro de ellas, la Facultad de Ingeniería Mecánica y Eléctrica.
+    </string>
+
+    
+    <!--MINAS-->
+    <string name="figmm">
+        La facultad de Ingeniería Geológica, Minera y Metalúrgica tiene como principal misión la formación profesional en ciencias aplicadas, ingeniería y los campos asociados que relacionan el descubrimiento y la recuperación de los recursos naturales de la tierra y la conversión de los materiales con protección del  Ambiente.
+Su visión es convertirse en líder de las Facultades de Ingeniería Geológica, Minera y Metalúrgica del Perú, así como en la formación profesional, en la investigación científica, técnica y humanística de sus egresados, con sólidos valores éticos.
+    </string>
+
+    
+    <!--SISTEMAS-->
+    <string name="fiis">
+        La Facultad de Ingeniería Industrial y de Sistemas, se caracteriza por estar imbuida por un
+        gran sentido innovador y permanente actualización científica y tecnológica, lo que le permite
+        formar profesionales de elevado nivel en sus respectivas especialidades, dotados de sólidos
+        principios éticos, morales, culturales y de protección ambiental para que puedan enfrentar
+        con éxito las exigencias propias del mundo moderno y aportar al desarrollo del país. Con este
+        fin se despliega permanentes esfuerzos para mantener al día el currículo de estudios para contar
+        con las más modernas facilidades tecnológicas y de información, compatibles con nuestro compromiso de formar excelentes profesionales.
+    </string>
+
+    
+    <!--MECANICA-->
+    <string name="fim">
+        Teniendo como misión fundamental formar profesionales idóneos y competitivos y desarrollar tecnologías que contribuyan
+        al avance industrial y al progreso del país, la Facultad de Ingeniería Mecánica de la
+Universidad Nacional de Ingeniería ofrece las especialidades de Ingeniería Mecánica, Ingeniería Mecánica
+        Eléctrica, Ingeniería Naval e Ingeniería Mecatrónica. En las nuevas condiciones, creadas por los avances tecnológicos de las últimas dos décadas, la Facultad de Ingeniería Mecánica se encuentra comprometida con esta era del conocimiento y la información y realiza redoblados esfuerzos conducentes a lograr una verdadera excelencia académica de cara al nuevo milenio.
+    </string>
+
+    
+    <!--PETROLEO-->
+    <string name="fip">
+        La Facultad de Ingeniería de Petróleo, Gas Natural y petroquímica, con el espíritu de desarrollo
+        en el futuro, presenta los nuevos planes Curriculares y programas de Estudios y Servicios que
+        ofrece a los alumnos de la Facultad, orientados a la investigación científica y tecnológica
+        realizada por los profesores de esta casa de estudios.
+    </string>
+
+    
+    <!--QUIMICA-->
+    <string name="fiqt">
+        La Facultad de Ingeniería Química y Textil en el antegrado ofrece las especialidades de Ingeniería Química e Ingeniería Textil. Debemos hacer notar que la Universidad Nacional de Ingeniería es la única en el país que brinda la especialidad de Ingeniería Textil.
+Los estudiantes para estas carreras deben tener:
+
+Predisposición para el aprendizaje de las ciencias físicas, químicas y matemáticas.
+Reacción ante nuevos eventos y adaptación.
+Espíritu innovador, creativo.
+Mente sistemática para el análisis de los problemas que se presentan.
+Liderazgo en el medio en que debe actuar.
+Capacidad de trabajo en equipo, habilidad negociadora y de gestión.
+    </string>
+
+
+</resources>
