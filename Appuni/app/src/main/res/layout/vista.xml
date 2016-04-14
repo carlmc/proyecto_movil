@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:padding="5dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:id="@+id/linearLayout">
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/icono"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="16dp" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="12sp"
+                android:text="New Text"
+                android:id="@+id/nombre"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@id/icono"
+                android:textAppearance="@android:style/TextAppearance.Holo.Large"
+                android:textStyle="bold" />
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <Button
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="35sp"
+                    android:id="@+id/ver"
+                    android:text="ver mas"
+                    android:textSize="12sp"
+                    android:textAllCaps="false"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true" />
+                <Button
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="35sp"
+                    android:id="@+id/ir"
+                    android:text="ir"
+                    android:focusable="false"
+                    android:textSize="12sp"
+                    android:textAllCaps="false"
+                    android:layout_alignParentTop="true"
+                    android:layout_toLeftOf="@+id/ver"
+                    android:layout_toStartOf="@+id/ver" />
+
+            </RelativeLayout>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

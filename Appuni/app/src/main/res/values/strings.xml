@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Appuni</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nombre_stand_lc">Librería Crisol</string>
+    <string name="info_stand_lc">
+        Somos una empresa de retail especializada, dedicada a la venta minorista de libros y artículos de entretenimiento cultural.
+Nuestras actividades se concentran en la venta de libros diversos en un ambiente agradable, diferenciado por nuestra calidad de servicio y el asesoramiento de nuestros libreros.
+En la actualidad, Librerías Crisol cuenta con 30 tiendas a nivel nacional y estamos presentes en las ciudades de Lima, Arequipa, Trujillo, Huancayo, Chiclayo, Piura, Ica, Cusco, Huánuco y Pucallpa.
+En nuestras tiendas podrás encontrar gran variedad de productos como CD y DVD musicales, películas, rompecabezas, juegos educativos, entre otros.
+    </string>
+    <string name="pagina_stand_lc">http://www.crisol.com.pe/</string>
+
+    <string name="nombre_stand_ll">Librería Libun</string>
+    <string name="info_stand_ll">
+        LIBUN es una Institución sin fines de lucro creada con la finalidad de poner al alcance de los docentes y estudiantes universitarios del país libros de texto y de consulta actualizados y de calidad, provenientes de prestigiosas editoriales nacionales e internacionales a precios asequibles, con el fin de apoyar el esfuerzo de las universidades por mejorar el nivel de formación académico-profesional de sus alumnos.
+    </string>
+    <string name="pagina_stand_ll">http://www.libun.edu.pe/</string>
+
+    <string name="nombre_stand_la">Librería Arcadia</string>
+    <string name="info_stand_la">
+        Arcadia Mediatica es la primera libreria especializada en Arquitectura y Diseño del Peru, operamos desde el 2001 en Lima distribuyendo las publicaciones mas prestigiosas de arquitectura, artes visuales y diseño del mundo.
+    </string>
+    <string name="pagina_stand_la">http://www.arcadiamediatica.com/</string>
+    
+    <string name="nombre_stand_dhn">Distribuidora Heraldos Negros</string>
+    <string name="info_stand_dhn">
+        adkjasklfjsklfjsadlkfksdfjlkasfk
+    </string>
+    <string name="pagina_stand_dhn">as</string>
+    
+    <string name="nombre_stand_pucp">Pontificia Universidad Católica del Perú</string>
+    <string name="info_stand_pucp">
+        La Pontificia Universidad Católica del Perú –fundada en Lima en 1917–, es la número uno del país, la número 23 de América Latina (según el QS Latin American University Rankings 2013) y la única peruana entre las 600 mejores del mundo en los rankings internacionales (rango 551-600 según el QS World University Rankings 2013). Esta ubicación es un reconocimiento a la calidad de su enseñanza, investigaciones, publicaciones, responsabilidad social, aporte a la cultura e innegable liderazgo académico e institucional. Pero nada de ello habría sido posible sin el permanente esfuerzo de quienes integramos esta casa de estudios: profesores, alumnos, trabajadores y egresados.
+    </string>
+    <string name="pagina_stand_pucp">http://www.pucp.edu.pe/</string>
+
+    <string name="nombre_stand_fce">Fondo de Cultura Económica</string>
+    <string name="info_stand_fce">
+        El Fondo de Cultura Económica (FCE, o simplemente “el Fondo”) es un grupo editorial en lengua española, asentado en México con presencia en todo el orbe hispanoamericano, sin fines de lucro y sostenido parcialmente por el Estado.
+    </string>
+    <string name="pagina_stand_fce">https://www.fondodeculturaeconomica.com/</string>
+
+    <string name="nombre_stand_llf">Librería La Familia</string>
+    <string name="info_stand_llf">
+        Fundada en 1952, Librerías La Familia, se mantiene como una de las cadenas líderes en el sector de comercialización de libros. Por nuestra trayectoria contamos con una de las más amplias ofertas bibliográficas del mercado, que van desde los clásicos, pasando por libros de especialización sobre todo en humanidades, una magnífica oferta de libros de arte, arquitectura, diseño, autoayuda, infantiles, best sellers, etc. Nuestra atención descansa en jóvenes universitarios, muy bien entrenados, que le darán la mejor asesoría. Locales amplios, con facilidad para estacionar.
+    </string>
+    <string name="pagina_stand_llf">http://librerialafamilia.blogspot.pe/</string>
+
+    <string name="nombre_stand_eirl">Editora Macro EIRL</string>
+    <string name="info_stand_eirl">
+        Empresa Editora Macro EIRL, nos dedicamos a la edición, producción y comercialización de libros para los niveles preescolar, escolar, técnico, universitario, y profesional.
+
+Aseguramos nuestras acciones mediante la mejora continua, orientados a:
+
+Mejorar constantemente los plazos de entrega de los pedidos de nuestros clientes.
+Satisfacer las necesidades y expectativas de nuestros clientes proporcionando servicios y productos de mayor calidad, pero a menor costo.
+Mejorar continuamente la eficacia del Sistema de Gestión de Calidad.
+    </string>
+    <string name="pagina_stand_eirl">http://www.editorialmacro.com/</string>
+
+    <string name="nombre_stand_cvt">Corporativo V y T</string>
+    <string name="info_stand_cvt">
+        asdkhashdjkasgjjkhjsdajhjkd
+    </string>
+    <string name="pagina_stand_cvt">as</string>
+
+    <string name="nombre_stand_cdma">CDMA TECH SAC</string>
+    <string name="info_stand_cdma">
+        asdkhashdjkasgjjkhjsdajhjkd
+    </string>
+    <string name="pagina_stand_cdma">as</string>
+
+    <string name="nombre_stand_ersa">Editorial Reverte S.A. </string>
+    <string name="info_stand_ersa">
+        asdkhashdjkasgjjkhjsdajhjkd
+    </string>
+    <string name="pagina_stand_ersa">http://www.reverte.com/motor.php?id_pagina=home</string>
+
+    <string name="nombre_stand_eo">Ediciones Orem</string>
+    <string name="info_stand_eo">
+        asdkhashdjkasgjjkhjsdajhjkd
+    </string>
+    <string name="pagina_stand_eo">http://edicionesorem.blogspot.pe/</string>
+
+    <string name="nombre_stand_ssp">Sociedad San Pablo</string>
+    <string name="info_stand_ssp">
+        asdkhashdjkasgjjkhjsdajhjkd
+    </string>
+    <string name="pagina_stand_ssp">http://www.sanpabloperu.com.pe/</string>
+
+    <string name="nombre_stand_uigv">Universidad Inca Garcilazo de la Vega</string>
+    <string name="info_stand_uigv">
+        asdkhashdjkasgjjkhjsdajhjkd
+    </string>
+    <string name="pagina_stand_uigv">http://www.uigv.edu.pe/</string>
+
+    <string name="nombre_stand_onpe">Oficina Nacional de Procesos Electorales</string>
+    <string name="info_stand_onpe">
+        asdkhashdjkasgjjkhjsdajhjkd
+    </string>
+    <string name="pagina_stand_onpe">https://www.onpe.gob.pe/</string>
+
+    <string name="nombre_stand_sc">San Cristobal</string>
+    <string name="info_stand_sc">
+        asdkhashdjkasgjjkhjsdajhjkd
+    </string>
+    <string name="pagina_stand_sc">as</string>
+
+    <string name="nombre_stand_eduni">Editorial EDUNI</string>
+    <string name="info_stand_eduni">
+        asdkhashdjkasgjjkhjsdajhjkd
+    </string>
+    <string name="pagina_stand_eduni">http://www.eduni.uni.edu.pe/</string>
+</resources>
